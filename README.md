@@ -19,7 +19,6 @@
 - 홍수저감 능력 : 성남시의 하천현황과 배수펌프장 현황
 ![image](https://github.com/user-attachments/assets/0fe748dd-69b8-4d1e-adf2-99283aca5226)
 ## 
-![image](https://github.com/user-attachments/assets/38679764-5cc8-4116-a11e-1b9531a76f8c) 
 ##
 ![image](https://github.com/user-attachments/assets/36636434-d16f-4992-9d33-c4b98edbebc5)
 ##
