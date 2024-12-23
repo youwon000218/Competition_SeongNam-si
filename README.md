@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a3e8a3c2-5abf-4959-b91a-562f6aa2a343)![image](https://github.com/user-attachments/assets/9e069193-df7d-4e6b-b5f8-0ff230b3a6ce)# 프로젝트 이름
+# 프로젝트 이름
 성남시 공공데이터를 활용한 호우시 하천범람 위험요인 분석
 
 ## Table of Contents
@@ -16,8 +16,10 @@
 하천범람의 위험성이 커지고 있는 실정에서 성남시 시민들이 홍수위험지역을 신속하게 파악하고 대피할 수 있도록 행정구역별로 위험요인을 분석하고자 하였다.
 홍수위험에 관한 접근성을 높이고 대책 수립에 필요한 기초자료를 제공하는 효과를 기대할 수 있다고 봅니다. 
 또한, 위험구역을 미리 파악하고 재난피해절감을 위한 의사결정에 도움이 되고자 한다.
-![프로젝트 스크린샷]()
+![image](https://github.com/user-attachments/assets/9e069193-df7d-4e6b-b5f8-0ff230b3a6ce)
+
 ## 특징
 - 위해성 : 강수량 데이터( 크게 4개의 관측소별로 2016년도부터 2019년도 간의 6월에서 8월까지 강수량 데이터를 추출)
 - 노출성 :  탄천주위 시설물과 재난취약층 데이터
 - 홍수저감 능력 : 성남시의 하천현황과 배수펌프장 현황
+![image](https://github.com/user-attachments/assets/0fe748dd-69b8-4d1e-adf2-99283aca5226)
