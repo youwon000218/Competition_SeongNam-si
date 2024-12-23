@@ -4,11 +4,6 @@
 ## Table of Contents
 - [소개](#소개)
 - [특징](#특징)
-- [설치 방법](#설치-방법)
-- [사용법](#사용법)
-- [기여](#기여)
-- [라이선스](#라이선스)
-- [연락처](#연락처)
 
 ## 소개
 최근 집중호우, 산사태, 태풍 등 기상이변 현상이 계속되면서 재난안전사고에 대한 대책 마련이 중요해졌다.
@@ -24,3 +19,9 @@
 - 홍수저감 능력 : 성남시의 하천현황과 배수펌프장 현황
 ![image](https://github.com/user-attachments/assets/0fe748dd-69b8-4d1e-adf2-99283aca5226)
 ## 
+![image](https://github.com/user-attachments/assets/38679764-5cc8-4116-a11e-1b9531a76f8c) 
+##
+![image](https://github.com/user-attachments/assets/36636434-d16f-4992-9d33-c4b98edbebc5)
+##
+![image](https://github.com/user-attachments/assets/66c82e3b-deb0-481b-a919-b48de05a2f87)
+##
